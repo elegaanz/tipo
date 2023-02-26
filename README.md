@@ -16,7 +16,6 @@ A tool to built an OTF file from hand drawn fonts.
 - Pillow, `pip install pillow`
 - potracer, `pip install potracer`
 - Python 3
-- Inkscape
 
 ## Licence
 
